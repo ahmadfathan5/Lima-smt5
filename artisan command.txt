@@ -1,0 +1,6 @@
+php artisan config:clear
+php artisan serve
+php artisan make:auth
+php arisan make:model Admin -c -m
+php artisan migrate:fresh
+php artisan key:generate

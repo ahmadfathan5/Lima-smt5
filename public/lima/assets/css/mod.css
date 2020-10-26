@@ -1,0 +1,41 @@
+.card-profile-image img {
+
+    transform: translate(-50%, 70%);
+
+}
+
+.card-profile-image img:hover {
+
+    transform: translate(-50%, 70%);
+
+}
+
+.modal-content {
+    transform: translate(0%,40%);
+}
+
+.modal-edit {
+  transform: translate(20%,20%);
+}
+
+.nim {
+  transform: translate(0%,370%);
+}
+
+.footmod {
+  background: #ffffff;
+}
+
+.foto{
+    width: 250px;
+    transform: translate(0%,25%);
+    border-radius: 8px;
+}
+
+.tombol {
+    transform: translate(0%,46%);
+}
+
+.profil{
+  height: 100%;
+}
